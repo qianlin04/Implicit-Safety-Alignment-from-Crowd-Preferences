@@ -52,3 +52,15 @@ https://github.com/WEIRDLabUW/vpl
 We use the IQL implementation from https://github.com/gwthomas/IQL-PyTorch, and the TD3 / TD3+BC implementations from https://github.com/sfujim/TD3 and https://github.com/sfujim/TD3_BC.
 
 
+## Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{lin2026implicit,
+  title={Implicit Safety Alignment from Crowd Preferences},
+  author={Lin, Qian and Brown, Daniel S.},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2026}
+}
+```
